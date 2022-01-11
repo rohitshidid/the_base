@@ -1,0 +1,88 @@
+[10-Jul-2021 12:04:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:04:17 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[10-Jul-2021 12:04:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:04:26 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[10-Jul-2021 12:04:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:04:43 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[10-Jul-2021 12:04:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 89
+[10-Jul-2021 12:04:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/index.php:1) in /home4/a1625v1r/public_html/index.php on line 93
+[10-Jul-2021 12:04:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:04:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:05:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:05:03 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:05:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 93
+[10-Jul-2021 12:05:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/login_admin.php:1) in /home4/a1625v1r/public_html/login_admin.php on line 96
+[10-Jul-2021 12:05:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:05:15 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:05:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 93
+[10-Jul-2021 12:05:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/login_admin.php:1) in /home4/a1625v1r/public_html/login_admin.php on line 96
+[10-Jul-2021 12:10:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:10:23 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[10-Jul-2021 12:10:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:10:38 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:10:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:10:39 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:10:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:10:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:10:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 93
+[10-Jul-2021 12:10:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/login_admin.php:1) in /home4/a1625v1r/public_html/login_admin.php on line 96
+[10-Jul-2021 12:10:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_teacher.php on line 4
+[10-Jul-2021 12:10:58 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_teacher.php on line 5
+[10-Jul-2021 12:14:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:14:18 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[10-Jul-2021 12:14:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:14:26 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[10-Jul-2021 12:14:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:14:49 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[10-Jul-2021 12:14:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 89
+[10-Jul-2021 12:14:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/index.php:1) in /home4/a1625v1r/public_html/index.php on line 93
+[10-Jul-2021 12:17:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:17:34 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[10-Jul-2021 12:17:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 89
+[10-Jul-2021 12:17:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/index.php:1) in /home4/a1625v1r/public_html/index.php on line 93
+[10-Jul-2021 12:18:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:18:09 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:18:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:18:25 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:18:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 93
+[10-Jul-2021 12:18:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/login_admin.php:1) in /home4/a1625v1r/public_html/login_admin.php on line 96
+[10-Jul-2021 12:22:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:22:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:23:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:23:11 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[10-Jul-2021 12:23:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:23:39 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[10-Jul-2021 12:23:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 89
+[10-Jul-2021 12:23:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/index.php:1) in /home4/a1625v1r/public_html/index.php on line 93
+[10-Jul-2021 12:23:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:23:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[10-Jul-2021 12:24:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:24:15 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:24:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:24:22 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:24:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 93
+[10-Jul-2021 12:24:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/login_admin.php:1) in /home4/a1625v1r/public_html/login_admin.php on line 96
+[10-Jul-2021 12:27:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/a1625v1r/public_html/connection_db.php on line 6
+[10-Jul-2021 12:27:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:27:43 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:27:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 93
+[10-Jul-2021 12:27:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/login_admin.php:1) in /home4/a1625v1r/public_html/login_admin.php on line 96
+[10-Jul-2021 12:27:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:27:51 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:27:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 93
+[10-Jul-2021 12:27:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/login_admin.php:1) in /home4/a1625v1r/public_html/login_admin.php on line 96
+[10-Jul-2021 12:27:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:27:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:27:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 93
+[10-Jul-2021 12:27:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/login_admin.php:1) in /home4/a1625v1r/public_html/login_admin.php on line 96
+[10-Jul-2021 12:28:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 4
+[10-Jul-2021 12:28:26 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/login_admin.php on line 5
+[10-Jul-2021 12:28:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/login_admin.php on line 93
+[10-Jul-2021 12:28:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/a1625v1r/public_html/login_admin.php:1) in /home4/a1625v1r/public_html/login_admin.php on line 96
+[10-Jul-2021 12:32:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/a1625v1r/public_html/index.php on line 4
+[10-Jul-2021 12:32:12 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/a1625v1r/public_html/index.php on line 5
+[17-Jul-2021 14:33:19 UTC] PHP Fatal error:  Label 'no_img3' already defined in /home4/a1625v1r/public_html/student_dashboard.php on line 710
+[17-Jul-2021 14:33:21 UTC] PHP Fatal error:  Label 'no_img3' already defined in /home4/a1625v1r/public_html/student_dashboard.php on line 710
+[17-Jul-2021 14:33:24 UTC] PHP Fatal error:  Label 'no_img3' already defined in /home4/a1625v1r/public_html/student_dashboard.php on line 710
+[17-Jul-2021 14:33:53 UTC] PHP Fatal error:  Label 'no_img3' already defined in /home4/a1625v1r/public_html/student_dashboard.php on line 710
+[17-Jul-2021 14:34:03 UTC] PHP Fatal error:  Label 'no_img3' already defined in /home4/a1625v1r/public_html/student_dashboard.php on line 710
